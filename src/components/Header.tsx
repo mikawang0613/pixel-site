@@ -10,7 +10,7 @@ const headingStyles: React.CSSProperties = {
 export const Header: React.FC = () => {
   return (
     <header>
-      <title>Altmeta.org Pixel Test HIHIHI</title>
+      <title>Altmeta.org Pixel Test</title>
       <Link to="/">
         <h1 style={headingStyles}>Altmeta.org Pixel Test</h1>
       </Link>
