@@ -10,7 +10,6 @@ const headingStyles: React.CSSProperties = {
 export const Header: React.FC = () => {
   return (
     <header>
-      <meta name="facebook-domain-verification" content="lmloheohibd4nhuodxq266i6lqrse2" />
       <title>Altmeta.org Pixel Test</title>
       <Link to="/">
         <h1 style={headingStyles}>Altmeta.org Pixel Test</h1>
