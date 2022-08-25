@@ -36,6 +36,7 @@ export const Layout: React.FC = ({ children }) => {
         ]}
       >
         <html lang="en" />
+        <meta name="facebook-domain-verification" content="lmloheohibd4nhuodxq266i6lqrse2" />
       </Helmet>
       <div style={layoutStyle}>
         <Header />
